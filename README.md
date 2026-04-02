@@ -1,7 +1,7 @@
 # StrexoPlayer
 
 <a href="https://github.com/sponsors/CallumJRobertson">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-Support-%23ea4aaa?logo=githubsponsors&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-%23ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 </a>
 <a href="https://ko-fi.com/F1F01WXQS8">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
