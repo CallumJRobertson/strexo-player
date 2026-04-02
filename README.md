@@ -1,5 +1,12 @@
 # StrexoPlayer
 
+<a href="https://github.com/sponsors/CallumJRobertson">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-Support-%23ea4aaa?logo=githubsponsors&logoColor=white" />
+</a>
+<a href="https://ko-fi.com/F1F01WXQS8">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
+</a>
+
 **Stremio, streamlined.**
 
 StrexoPlayer is a lightweight external player built to improve the Stremio experience across iOS and Android TV.
@@ -66,7 +73,7 @@ Basic flow:
 2. Set it as your external player in Stremio  
 3. Start watching as normal  
 
-Detailed guides:
+Detailed guides:  
 👉 https://strexo.space
 
 ---
